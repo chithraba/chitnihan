@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 helooooo nihan ./..
+=======
+alooooooooooooooooo chit its nihan
+>>>>>>> ffebdaae101d067eab3f1428cfd5db0697d4fc63
